@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\bin\Debug\intro.exe.config
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\bin\Debug\intro.exe
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\bin\Debug\intro.pdb
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\obj\Debug\intro.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\obj\Debug\intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\obj\Debug\intro.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\obj\Debug\intro.exe
+C:\Users\AulaT\Desktop\Adoni ç\script\Esetec_m1_INTRODUCCI-N\intro\intro\obj\Debug\intro.pdb
